@@ -20,3 +20,4 @@ class ViewController: UIViewController {
 
 }
 
+print("똥냠냠")

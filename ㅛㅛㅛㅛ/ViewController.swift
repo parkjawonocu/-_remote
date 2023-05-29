@@ -8,6 +8,9 @@
 import UIKit
 
 class ViewController: UIViewController {
+    //body
+     print("this is test")
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
